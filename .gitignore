@@ -1,0 +1,4 @@
+.DS_Store
+php_errors.log
+.env
+data/*
